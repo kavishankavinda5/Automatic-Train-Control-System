@@ -39,7 +39,7 @@ can hear all the details also.
 
 ## Related
 
-Here are some related projects
+Here is a related project
 
 [Mobile Application](https://github.com/kavishankavinda5/Live-Railway)
 
