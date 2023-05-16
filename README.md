@@ -37,6 +37,17 @@ can hear all the details also.
 - LCD Display
 - 12V Power Supply
 
+## Simulator Review
+### Train (Receiver)
+![20221212_101905](https://github.com/kavishankavinda5/Automatic-Train-Control-System/assets/75110057/3cac8e60-0983-4205-9166-cd8ba52d0ec4)
+![20221212_101907](https://github.com/kavishankavinda5/Automatic-Train-Control-System/assets/75110057/20b9deac-8b3f-4276-b518-d2766d17d0b3)
+![WhatsApp Image 2023-05-16 at 17 52 44](https://github.com/kavishankavinda5/Automatic-Train-Control-System/assets/75110057/2c9b971d-f751-4918-8fbb-f4ba533aac96)
+
+### Control Unit (Sender)
+![20221212_101855](https://github.com/kavishankavinda5/Automatic-Train-Control-System/assets/75110057/be9bafd4-2ef5-46af-b6f7-8fb6d4b26ba5)
+![20221212_101857](https://github.com/kavishankavinda5/Automatic-Train-Control-System/assets/75110057/df95a47d-43e1-4a7f-9f2b-d502977aa3b2)
+
+
 ## Related
 
 Here is a related project
